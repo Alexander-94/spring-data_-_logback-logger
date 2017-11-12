@@ -1,4 +1,4 @@
-# spring-data_-_logback-logger
+# spring-data_and_logback-logger
 
 Spring data and logback logger example.
 
